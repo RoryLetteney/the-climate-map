@@ -27,6 +27,7 @@ function updateSelectedNodes(e, selectedNodes) {
 function clearSelectedNodes(e) {
   if (e.target.tagName == 'svg') {
     selectedNodes = [];
+    startingNodesSelected = false;
   
     nodes.forEach(n => {
       n.style.opacity = '100%';
