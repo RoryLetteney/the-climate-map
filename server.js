@@ -30,24 +30,18 @@ app.post('/donate', async (req, res, next) => {
   const name = req.body['cardholder-name'];
   const email = req.body.email;
   const amount = req.body.amount;
-  if (true) { // Data is valid!
-    try {
-      // Create a PI:
-      const stripe = require('stripe')('sk_test_4eC39HqLyjWDarjtT1zdp7dc');
-      const paymentIntent = await stripe.paymentIntents.create({
-        amount: amount * 100, // In cents
-        currency: 'usd',
-        receipt_email: email,
-      });
-      res.render('./card', {NAME: name, AMOUNT: amount, INTENT_SECRET: paymentIntent.client_secret });
-    } catch(err) {
-      console.log('Error! ', err.message);
-    }
-  } else {
-    res.render('donate', { title: 'Donate', errors: errors });
+  try {
+    // Create a PI:
+    const stripe = require('stripe')('sk_test_4eC39HqLyjWDarjtT1zdp7dc');
+    const paymentIntent = await stripe.paymentIntents.create({
+      amount: amount * 100, // In cents
+      currency: 'usd',
+      receipt_email: email,
+    });
+    res.render('./card', {NAME: name, AMOUNT: amount, INTENT_SECRET: paymentIntent.client_secret });
+  } catch(err) {
+    console.log('Error! ', err.message);
   }
 });
-// app.use(require('./routes/file-upload'));
-// app.use(require('./routes/sprints'));
 
 app.listen(port, () => console.log(`Listening on port ${port}`));
