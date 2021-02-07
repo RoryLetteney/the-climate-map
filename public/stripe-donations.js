@@ -18,10 +18,13 @@ function mountCardElement() {
   
   card.on('change', function(event) {
     const displayError = document.getElementById('card-errors');
+    const cardButton = document.getElementById('card-button');
     if (event.error) {
       displayError.textContent = event.error.message;
+      cardButton.disabled = true;
     } else {
       displayError.textContent = '';
+      cardButton.disabled = false;
     }
   });
 
