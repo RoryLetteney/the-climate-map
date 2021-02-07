@@ -12,7 +12,13 @@ const traceFunctions = {
 let currentMode = modes.FOCUS_MODE;
 const tracingElements = Array.from(document.getElementsByClassName('tracing'));
 
-tracingElements.forEach(e => e.style.display = 'none' );
+tracingElements.forEach(e => {
+  if (e.classList.contains('label')) {
+    e.style.color = '#333333';
+  } else {
+    e.style.display = 'none';
+  }
+});
 
 function focusModeClickHandler(e) {
   const pattern = new RegExp(`(^|\-\>)${e.target.classList.value}($|\-\>)`);
@@ -23,7 +29,12 @@ function toggleMode() {
   if (currentMode === modes.FOCUS_MODE) {
     currentMode = modes.TRACE_MODE;
     document.getElementById('body').classList = 'trace-mode';
-    tracingElements.forEach(e => e.style.display = /label/.test(e.classList) ? 'grid' : 'block');
+    tracingElements.forEach(e => {
+      if (/label/.test(e.classList)) {
+        e.style.color = '#FFFFFF';
+      }
+      e.style.display = /label/.test(e.classList) ? 'grid' : 'block'
+    });
 
     nodes.forEach(n => {
       n.removeEventListener('click', focusModeClickHandler);
@@ -36,8 +47,13 @@ function toggleMode() {
     currentMode = modes.FOCUS_MODE;
     document.getElementById('body').classList = '';
     tracingElements.forEach(e => {
-      e.style.display = 'none';
-      e.classList.remove('active');
+      if (e.classList.contains('label')) {
+        e.style.color = '#333333';
+      }
+      else {
+        e.style.display = 'none';
+        e.classList.remove('active');
+      }
     });
 
     cleanup(true);
