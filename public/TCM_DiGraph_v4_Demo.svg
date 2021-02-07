@@ -1,0 +1,1496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1753.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-953.000000 -916.000000 1753.000000 1941.000000" height="1941.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -303.776184,-447.452972 L -498.154236,-715.687622"
+              class="id_Ambient_CO2 id_Enhanced_weathering_using_MgO_on_beaches"
+              stroke-opacity="1.0" stroke="#b9a402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -304.648529,-446.713104 L -616.135132,-761.741333"
+              class="id_Ambient_CO2 id_Enhanced_weathering_using_MgO_on_agricultural_soil"
+              stroke-opacity="1.0" stroke="#b9a402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -303.250641,-447.801117 L -534.062866,-830.242920"
+              class="id_Ambient_CO2 id_Enhanced_weathering_using_MgO_on_forest_soil"
+              stroke-opacity="1.0" stroke="#b9a402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -306.557739,-439.220612 L -749.433716,-306.076813"
+              class="id_Ambient_CO2 id_Compression" stroke-opacity="1.0"
+              stroke="#b98a42"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.375305,-441.379913 C -285.375305,-455.379913 -285.375305,-427.379913 -299.375305,-441.379913"
+              class="id_Ambient_CO2" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -301.033936,-448.694214 L -341.924255,-629.013733"
+              class="id_Ambient_CO2 id_Soil_enriched_with_olivine"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.638153,-448.875305 L -307.952087,-685.962769"
+              class="id_Ambient_CO2 id_Enhanced_weathering_with_olivine"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -291.880310,-441.106384 L -139.668625,-435.551514"
+              class="id_Ambient_CO2 id_Ground_ultramafic_rocks"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -292.069916,-439.682434 L 2.823520,-371.161011"
+              class="id_Ambient_CO2 id_Spreading_rocks_over_ag_soil"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -292.982147,-437.458496 L -55.176544,-291.593658"
+              class="id_Ambient_CO2 id_forest_soil" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -292.987091,-437.450439 L -114.521202,-327.673309"
+              class="id_Ambient_CO2 id_along_beaches" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -295.919983,-448.036560 L -219.528931,-595.203552"
+              class="id_Ambient_CO2 id_Soil" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -293.448395,-445.975739 L -137.095154,-567.214294"
+              class="id_Ambient_CO2 id_Using_microbial_processes_for_soil"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -297.626740,-434.086609 L -155.537674,158.570007"
+              class="id_Ambient_CO2 id_CO2-bearing_aqueous_fluids"
+              stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -302.200531,-434.432373 L -368.190430,-272.156219"
+              class="id_Ambient_CO2 id_Olivine" stroke-opacity="1.0"
+              stroke="#39be4a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -304.025604,-435.495636 L -422.009460,-286.204865"
+              class="id_Ambient_CO2 id_NaHCO3" stroke-opacity="1.0"
+              stroke="#39be4a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -292.350525,-438.752686 L 81.321320,-299.002411"
+              class="id_Ambient_CO2 id_Serpentine" stroke-opacity="1.0"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -294.045685,-436.103058 L 53.869888,-91.631935"
+              class="id_Ambient_CO2 id_CO2" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -297.109344,-434.230408 L -157.118607,7.466040"
+              class="id_Ambient_CO2 id_Water" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -510.957825,-736.175720 L -581.905457,-894.066406"
+              class="id_Enhanced_weathering_using_MgO_on_beaches id_Pure_CO2"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -512.945496,-734.908142 L -639.423889,-881.146606"
+              class="id_Enhanced_weathering_using_MgO_on_beaches id_MgCO3"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -689.515320,-811.653503 L -522.306335,-735.446167"
+              class="id_Caustic_Magnesia id_Enhanced_weathering_using_MgO_on_beaches"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -689.918335,-810.889282 L -641.297058,-781.552307"
+              class="id_Caustic_Magnesia id_Enhanced_weathering_using_MgO_on_agricultural_soil"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -688.972168,-816.166016 L -558.252869,-841.041748"
+              class="id_Caustic_Magnesia id_Enhanced_weathering_using_MgO_on_forest_soil"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -625.210449,-781.029297 L -592.583252,-893.320251"
+              class="id_Enhanced_weathering_using_MgO_on_agricultural_soil id_Pure_CO2"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -628.957397,-781.217285 L -646.750305,-877.627563"
+              class="id_Enhanced_weathering_using_MgO_on_agricultural_soil id_MgCO3"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -547.132751,-850.677429 L -579.244202,-895.595398"
+              class="id_Enhanced_weathering_using_MgO_on_forest_soil id_Pure_CO2"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -549.805420,-847.431091 L -635.457703,-886.445129"
+              class="id_Enhanced_weathering_using_MgO_on_forest_soil id_MgCO3"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -773.304565,-293.694611 L -864.938477,-195.383240"
+              class="id_Compression id_Pure_CO2_gas" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -775.523315,-296.747101 L -928.142944,-225.547623"
+              class="id_Compression id_Ultramafic_mine_tailings"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -880.710266,-174.601349 L -908.193481,-119.007332"
+              class="id_Pure_CO2_gas id_Sparging_CO2-rich_gas"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -941.705811,-209.337616 L -921.910522,-120.657852"
+              class="id_Ultramafic_mine_tailings id_Sparging_CO2-rich_gas"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -906.833374,-93.252151 L -736.952698,21.857040"
+              class="id_Sparging_CO2-rich_gas id_More_receptive_mine_tailings"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -708.793762,33.749012 L -411.463928,53.634678"
+              class="id_More_receptive_mine_tailings id_Piping_into_tailings"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -383.825653,56.201416 L 105.279419,124.793335"
+              class="id_Piping_into_tailings id_Carbonates" stroke-opacity="1.0"
+              stroke="#a54d61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -341.345886,-650.470276 L -317.318298,-688.496887"
+              class="id_Soil_enriched_with_olivine id_Enhanced_weathering_with_olivine"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -307.978088,-710.844299 L -300.281769,-828.761475"
+              class="id_Enhanced_weathering_with_olivine id_Soil_carbonate"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -113.782494,-430.855560 L 3.996452,-374.505768"
+              class="id_Ground_ultramafic_rocks id_Spreading_rocks_over_ag_soil"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.842506,-426.614075 L -48.954464,-297.451813"
+              class="id_Ground_ultramafic_rocks id_forest_soil"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.542679,-425.667023 L -103.633667,-335.154053"
+              class="id_Ground_ultramafic_rocks id_along_beaches"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 20.371382,-359.348022 L 117.499443,111.765251"
+              class="id_Spreading_rocks_over_ag_soil id_Carbonates"
+              stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -38.238834,-275.357544 L 114.936142,112.529358"
+              class="id_forest_soil id_Carbonates" stroke-opacity="1.0"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -96.954880,-311.703888 L 113.741524,113.060394"
+              class="id_along_beaches id_Carbonates" stroke-opacity="1.0"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.276138,-606.579041 L -140.071884,-584.743286"
+              class="id_Soil id_Using_microbial_processes_for_soil"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -114.508980,-571.123962 L -15.174913,-472.567444"
+              class="id_Using_microbial_processes_for_soil id_Enhanced_soil"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.210251,-567.918274 L -122.262718,-452.326172"
+              class="id_Using_microbial_processes_for_soil id_Ground_ultramafic_rocks"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.691970,-451.138794 L 15.017538,-383.347778"
+              class="id_Enhanced_soil id_Spreading_rocks_over_ag_soil"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -4.812147,-451.110016 L -37.829178,-298.998199"
+              class="id_Enhanced_soil id_forest_soil" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -8.175636,-452.571350 L -91.359650,-332.529572"
+              class="id_Enhanced_soil id_along_beaches" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -165.260010,171.738998 L -346.919159,-74.611031"
+              class="id_CO2-bearing_aqueous_fluids id_Adding_NaHCO3_as_buffer"
+              stroke-opacity="1.0" stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.334648,178.481369 L 185.002106,-47.657555"
+              class="id_CO2-bearing_aqueous_fluids id_Heat-treating_serpentine"
+              stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -114.806488,204.691406 L 37.545914,239.037231"
+              class="id_CO2-bearing_aqueous_fluids id_Piping_into_waste_byproducts_such_as_cement_kiln_dust"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.691422,212.542175 L -19.848049,263.801208"
+              class="id_CO2-bearing_aqueous_fluids id_steel_slag"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -132.478195,226.712784 L -53.302124,394.882538"
+              class="id_CO2-bearing_aqueous_fluids id_Piping_into_wollastonite_and_olivine"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -172.475235,216.122452 L -374.979065,358.591125"
+              class="id_CO2-bearing_aqueous_fluids id_Injection_into_subsurface_pore_space_in_basaltic_lavas"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -373.576630,-249.403488 L -363.128235,-118.019455"
+              class="id_Olivine id_Adding_NaHCO3_as_buffer" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -428.995056,-266.246124 L -370.040283,-116.422012"
+              class="id_NaHCO3 id_Adding_NaHCO3_as_buffer" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -346.639557,-87.186661 L -272.381470,-52.471245"
+              class="id_Adding_NaHCO3_as_buffer id_Olivine-NaHCO3_solution"
+              stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.534943,-39.499767 L -71.047913,13.984767"
+              class="id_Olivine-NaHCO3_solution id_Piping_into_olivine_solution"
+              stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -46.431290,24.154984 L 107.427963,118.823364"
+              class="id_Piping_into_olivine_solution id_Carbonates"
+              stroke-opacity="1.0" stroke="#268169"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 100.357437,-285.599609 L 194.752609,-86.626495"
+              class="id_Serpentine id_Heat-treating_serpentine"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 223.840057,-64.609642 L 445.529449,-82.848915"
+              class="id_Heat-treating_serpentine id_Enhanced_serpentine"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.272537,-70.614845 L 343.734467,-126.109528"
+              class="id_Heat-treating_serpentine id_Serpentine-rich_mine_tailings"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 455.239777,-78.669724 L 383.039551,-28.446619"
+              class="id_Enhanced_serpentine id_Piping_into_serpentine-rich_mine_tailings"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 360.753113,-123.684258 L 367.428192,-35.864552"
+              class="id_Serpentine-rich_mine_tailings id_Piping_into_serpentine-rich_mine_tailings"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 360.630066,-13.746376 L 134.000977,119.107239"
+              class="id_Piping_into_serpentine-rich_mine_tailings id_Carbonates"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 72.675011,-60.837322 L 157.326843,429.997314"
+              class="id_CO2 id_Dissolution_into_water" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 57.528503,-67.590477 L -215.524094,104.059433"
+              class="id_CO2 id_Capture_from_geothermal_steam"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 84.090508,-80.760315 L 467.093231,-224.652771"
+              class="id_CO2 id_DAC" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -143.731140,37.260704 L 137.700623,438.098328"
+              class="id_Water id_Dissolution_into_water" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.500900,36.128048 L -219.238129,99.543152"
+              class="id_Water id_Capture_from_geothermal_steam"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 135.447144,450.719940 L -116.308624,224.461700"
+              class="id_Dissolution_into_water id_CO2-bearing_aqueous_fluids"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 139.983795,446.397278 L 80.430962,373.324707"
+              class="id_Dissolution_into_water id_Waste_byproducts_such_as_cement"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 126.000793,486.426025 L -25.347988,519.451782"
+              class="id_Dissolution_into_water id_Wollastonite"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 131.775696,500.112457 L 37.829681,562.163208"
+              class="id_Dissolution_into_water id_olivine" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 199.554291,499.821198 L 536.608398,718.306152"
+              class="id_Dissolution_into_water id_CO2-bearing_aqueous_fluids_or_supercritical_CO2"
+              stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 181.863403,514.869568 L 290.246216,761.504700"
+              class="id_Dissolution_into_water id_Subsurface_pores"
+              stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 192.153580,508.345734 L 277.007446,605.872009"
+              class="id_Dissolution_into_water id_Peridotite"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 203.527191,491.915375 L 304.187134,529.370117"
+              class="id_Dissolution_into_water id_Saline_Aquifers"
+              stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 205.625824,471.812073 L 336.821869,452.226898"
+              class="id_Dissolution_into_water id_Oil_and_Gas_Reservoirs"
+              stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 68.600769,351.573792 L 55.701584,258.778076"
+              class="id_Waste_byproducts_such_as_cement id_Piping_into_waste_byproducts_such_as_cement_kiln_dust"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 64.126053,353.572540 L 5.131280,283.822388"
+              class="id_Waste_byproducts_such_as_cement id_steel_slag"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 57.628769,235.438202 L 112.845650,140.349945"
+              class="id_Piping_into_waste_byproducts_such_as_cement_kiln_dust id_Carbonates"
+              stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.062322,265.109009 L 110.437996,138.624557"
+              class="id_steel_slag id_Carbonates" stroke-opacity="1.0"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -41.331928,514.875427 L -45.243328,427.478241"
+              class="id_Wollastonite id_Piping_into_wollastonite_and_olivine"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 21.270817,563.657959 L -39.127369,426.051636"
+              class="id_olivine id_Piping_into_wollastonite_and_olivine"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -41.385574,402.509918 L 112.773338,140.307693"
+              class="id_Piping_into_wollastonite_and_olivine id_Carbonates"
+              stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -223.934875,126.517349 L -175.810501,170.521774"
+              class="id_Capture_from_geothermal_steam id_CO2-bearing_aqueous_fluids"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -245.304321,127.409042 L -375.467102,268.062225"
+              class="id_Capture_from_geothermal_steam id_Basaltic_lavas"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -387.102509,288.862732 L -389.621246,350.606598"
+              class="id_Basaltic_lavas id_Injection_into_subsurface_pore_space_in_basaltic_lavas"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -398.280640,376.867065 L -469.075470,443.561493"
+              class="id_Injection_into_subsurface_pore_space_in_basaltic_lavas id_Basaltic_carbonate"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 549.156616,752.771484 L 448.215820,896.315369"
+              class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_Injection_into_subsurface_pore_space_"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 545.824219,719.477417 L 399.701385,581.037048"
+              class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_Injection_into_peridotite_reservoirs"
+              stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 550.712708,715.598206 L 426.344666,502.947876"
+              class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_Injection_into_Saline_Aquifers"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 553.241272,714.329041 L 430.979645,426.087708"
+              class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_Injection_into_O&amp;G_reservoirs"
+              stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 573.994873,753.178406 L 684.035278,921.093445"
+              class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_Secondary_trapping_mechanisms_(highly_varied)_-__immobilize_the_CO2"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 579.119202,748.524841 L 749.951111,885.636841"
+              class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_including_dissolution"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 577.452148,750.377502 L 677.557556,851.228699"
+              class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_residual_gas_trapping"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 582.247131,743.280640 L 746.572815,812.618164"
+              class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_and_mineralization"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 304.059845,783.937073 L 424.362335,898.663452"
+              class="id_Subsurface_pores id_Injection_into_subsurface_pore_space_"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 437.772705,921.701050 L 438.709229,1002.280823"
+              class="id_Injection_into_subsurface_pore_space_ id_Sedimentary_carbonate"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 295.563599,614.622986 L 373.158630,576.939758"
+              class="id_Peridotite id_Injection_into_peridotite_reservoirs"
+              stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 383.544250,562.674622 L 128.636963,140.217224"
+              class="id_Injection_into_peridotite_reservoirs id_Carbonates"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 327.437073,531.502014 L 403.324799,495.803162"
+              class="id_Saline_Aquifers id_Injection_into_Saline_Aquifers"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 412.811890,482.417633 L 130.471451,138.920135"
+              class="id_Injection_into_Saline_Aquifers id_Carbonates"
+              stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 360.708557,445.706543 L 410.248962,418.839508"
+              class="id_Oil_and_Gas_Reservoirs id_Injection_into_O&amp;G_reservoirs"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 418.518036,405.367279 L 131.953140,137.529877"
+              class="id_Injection_into_O&amp;G_reservoirs id_Carbonates"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 700.515686,937.187378 L 777.964966,963.794128"
+              class="id_Secondary_trapping_mechanisms_(highly_varied)_-__immobilize_the_CO2 id_Any_other_in-situ_approach"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 765.588440,903.198853 L 786.720398,954.498413"
+              class="id_including_dissolution id_Any_other_in-situ_approach"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 694.555359,868.444641 L 781.792603,957.742737"
+              class="id_residual_gas_trapping id_Any_other_in-situ_approach"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 763.053772,826.802673 L 789.464722,953.655457"
+              class="id_and_mineralization id_Any_other_in-situ_approach"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 481.228180,-242.054794 L 441.362549,-349.112732"
+              class="id_DAC id_Underground_sequestration_in_sedimentary_formations"
+              stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 495.841064,-235.245422 L 645.503906,-288.556824"
+              class="id_DAC id_Concentrated_gas" stroke-opacity="1.0"
+              stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 664.411804,-304.957947 L 677.824951,-390.349426"
+              class="id_Concentrated_gas id_CO2-enhanced_oil_recovery"
+              stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 687.586548,-413.768707 L 747.216370,-466.308167"
+              class="id_CO2-enhanced_oil_recovery id_Sequestration_in_oil_reservoirs"
+              stroke-opacity="1.0" stroke="#d3b3b0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#b9a402" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_Enhanced_weathering_using_MgO_on_beaches"
+                  points="-502.848541,-722.165527 -494.915253,-718.034790 -501.393219,-713.340454"
+                  stroke="none"/>
+        <polyline fill="#b9a402" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_Enhanced_weathering_using_MgO_on_agricultural_soil"
+                  points="-621.759949,-767.430054 -613.290771,-764.553711 -618.979492,-758.928955"
+                  stroke="none"/>
+        <polyline fill="#b9a402" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_Enhanced_weathering_using_MgO_on_forest_soil"
+                  points="-538.196594,-837.092163 -530.638245,-832.309753 -537.487488,-828.176086"
+                  stroke="none"/>
+        <polyline fill="#b98a42" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_Compression"
+                  points="-757.094971,-303.773590 -750.585327,-309.907440 -748.282104,-302.246185"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_Soil_enriched_with_olivine"
+                  points="-343.693481,-636.815674 -338.023285,-629.898315 -345.825226,-628.129150"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_Enhanced_weathering_with_olivine"
+                  points="-308.232452,-693.957886 -303.954559,-686.102966 -311.949615,-685.822571"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_Ground_ultramafic_rocks"
+                  points="-131.673950,-435.259766 -139.814499,-431.554169 -139.522751,-439.548859"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_Spreading_rocks_over_ag_soil"
+                  points="10.615925,-369.350372 1.918198,-367.264801 3.728841,-375.057220"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_forest_soil"
+                  points="-48.357178,-287.410797 -57.267971,-288.183990 -53.085117,-295.003326"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_along_beaches"
+                  points="-107.707115,-323.481842 -116.616928,-324.266266 -112.425476,-331.080353"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_Soil"
+                  points="-215.843262,-602.304016 -215.978729,-593.360718 -223.079132,-597.046387"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_Using_microbial_processes_for_soil"
+                  points="-130.773117,-572.116516 -134.644043,-564.053284 -139.546265,-570.375305"
+                  stroke="none"/>
+        <polyline fill="#a9a47f" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_CO2-bearing_aqueous_fluids"
+                  points="-153.672531,166.349533 -159.427444,159.502579 -151.647903,157.637436"
+                  stroke="none"/>
+        <polyline fill="#39be4a" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_Olivine"
+                  points="-371.203979,-264.745544 -371.895782,-273.662994 -364.485077,-270.649445"
+                  stroke="none"/>
+        <polyline fill="#39be4a" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_NaHCO3"
+                  points="-426.969788,-279.928314 -425.147736,-288.685028 -418.871185,-283.724701"
+                  stroke="none"/>
+        <polyline fill="#5f831f" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_Serpentine"
+                  points="88.814430,-296.200043 79.920135,-295.255859 82.722504,-302.748962"
+                  stroke="none"/>
+        <polyline fill="#a9a47f" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_CO2"
+                  points="59.554813,-86.003288 51.055565,-88.789474 56.684212,-94.474396"
+                  stroke="none"/>
+        <polyline fill="#a9a47f" fill-opacity="1.0"
+                  class="id_Ambient_CO2 id_Water"
+                  points="-154.701584,15.092179 -160.931671,8.674549 -153.305542,6.257530"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Enhanced_weathering_using_MgO_on_beaches id_Pure_CO2"
+                  points="-585.184387,-901.363586 -578.256897,-895.705872 -585.554016,-892.426941"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Enhanced_weathering_using_MgO_on_beaches id_MgCO3"
+                  points="-644.657166,-887.197510 -636.398438,-883.763245 -642.449341,-878.529968"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Caustic_Magnesia id_Enhanced_weathering_using_MgO_on_beaches"
+                  points="-515.026733,-732.128418 -523.965210,-731.806396 -520.647461,-739.085938"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Caustic_Magnesia id_Enhanced_weathering_using_MgO_on_agricultural_soil"
+                  points="-634.447327,-777.419373 -643.363525,-778.127441 -639.230591,-784.977173"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Caustic_Magnesia id_Enhanced_weathering_using_MgO_on_forest_soil"
+                  points="-550.393921,-842.537292 -557.505066,-837.112244 -559.000671,-844.971252"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Enhanced_weathering_using_MgO_on_agricultural_soil id_Pure_CO2"
+                  points="-590.351074,-901.002502 -588.742126,-892.204163 -596.424377,-894.436340"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Enhanced_weathering_using_MgO_on_agricultural_soil id_MgCO3"
+                  points="-648.202209,-885.494751 -642.816711,-878.353516 -650.683899,-876.901611"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Enhanced_weathering_using_MgO_on_forest_soil id_Pure_CO2"
+                  points="-583.896667,-902.103394 -575.990173,-897.921631 -582.498230,-893.269165"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Enhanced_weathering_using_MgO_on_forest_soil id_MgCO3"
+                  points="-642.738037,-889.761292 -633.799622,-890.085266 -637.115784,-882.804993"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Compression id_Pure_CO2_gas"
+                  points="-870.393066,-189.531128 -867.864502,-198.110550 -862.012451,-192.655930"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Compression id_Ultramafic_mine_tailings"
+                  points="-935.392822,-222.165436 -929.834045,-229.172562 -926.451843,-221.922684"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Pure_CO2_gas id_Sparging_CO2-rich_gas"
+                  points="-911.738770,-111.835800 -911.779236,-120.779976 -904.607727,-117.234688"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Ultramafic_mine_tailings id_Sparging_CO2-rich_gas"
+                  points="-920.167664,-112.850014 -925.814453,-119.786407 -918.006592,-121.529297"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Sparging_CO2-rich_gas id_More_receptive_mine_tailings"
+                  points="-730.329834,26.344595 -739.196472,25.168455 -734.708923,18.545626"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_More_receptive_mine_tailings id_Piping_into_tailings"
+                  points="-403.481750,54.168533 -411.730865,57.625763 -411.196991,49.643593"
+                  stroke="none"/>
+        <polyline fill="#a54d61" fill-opacity="1.0"
+                  class="id_Piping_into_tailings id_Carbonates"
+                  points="113.201889,125.904381 104.723900,128.754578 105.834938,120.832100"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Soil_enriched_with_olivine id_Enhanced_weathering_with_olivine"
+                  points="-313.044983,-695.259949 -313.936768,-686.360229 -320.699829,-690.633545"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Enhanced_weathering_with_olivine id_Soil_carbonate"
+                  points="-299.760712,-836.744507 -296.290253,-828.500977 -304.273285,-829.021973"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Ground_ultramafic_rocks id_Spreading_rocks_over_ag_soil"
+                  points="11.213032,-371.053101 2.270113,-370.897491 5.722792,-378.114044"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Ground_ultramafic_rocks id_forest_soil"
+                  points="-45.189693,-290.393036 -52.483860,-295.569427 -45.425068,-299.334198"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Ground_ultramafic_rocks id_along_beaches"
+                  points="-102.164581,-327.290070 -107.565643,-334.419495 -99.701691,-335.888611"
+                  stroke="none"/>
+        <polyline fill="#5f831f" fill-opacity="1.0"
+                  class="id_Spreading_rocks_over_ag_soil id_Carbonates"
+                  points="119.114807,119.600471 113.581833,112.572929 121.417053,110.957573"
+                  stroke="none"/>
+        <polyline fill="#5f831f" fill-opacity="1.0"
+                  class="id_forest_soil id_Carbonates"
+                  points="117.874504,119.970200 111.215721,113.998535 118.656563,111.060181"
+                  stroke="none"/>
+        <polyline fill="#5f831f" fill-opacity="1.0"
+                  class="id_along_beaches id_Carbonates"
+                  points="117.296455,120.227150 110.158142,114.837860 117.324905,111.282928"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Soil id_Using_microbial_processes_for_soil"
+                  points="-132.485947,-582.202881 -141.342087,-580.950317 -138.801682,-588.536255"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Using_microbial_processes_for_soil id_Enhanced_soil"
+                  points="-9.495875,-466.932861 -17.992205,-469.727936 -12.357621,-475.406952"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Using_microbial_processes_for_soil id_Ground_ultramafic_rocks"
+                  points="-122.266350,-444.326172 -126.262718,-452.327972 -118.262718,-452.324371"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Enhanced_soil id_Spreading_rocks_over_ag_soil"
+                  points="16.823555,-375.554321 11.120799,-382.444763 18.914278,-384.250793"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Enhanced_soil id_forest_soil"
+                  points="-39.526123,-291.180237 -41.738155,-299.846680 -33.920200,-298.149719"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Enhanced_soil id_along_beaches"
+                  points="-95.916222,-325.954041 -94.647415,-334.807861 -88.071884,-330.251282"
+                  stroke="none"/>
+        <polyline fill="#6fa3c9" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids id_Adding_NaHCO3_as_buffer"
+                  points="-351.667084,-81.049751 -343.699799,-76.984993 -350.138519,-72.237068"
+                  stroke="none"/>
+        <polyline fill="#95679e" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids id_Heat-treating_serpentine"
+                  points="191.430923,-52.418880 187.382767,-44.443142 182.621445,-50.871967"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids id_Piping_into_waste_byproducts_such_as_cement_kiln_dust"
+                  points="45.350060,240.796570 36.666245,242.939301 38.425583,235.135162"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids id_steel_slag"
+                  points="-12.761629,267.513733 -21.704298,267.344421 -17.991800,260.257996"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids id_Piping_into_wollastonite_and_olivine"
+                  points="-49.894432,402.120453 -56.921089,396.586395 -49.683159,393.178680"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids id_Injection_into_subsurface_pore_space_in_basaltic_lavas"
+                  points="-381.522034,363.194336 -377.280670,355.319641 -372.677460,361.862610"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Olivine id_Adding_NaHCO3_as_buffer"
+                  points="-362.494019,-110.044632 -367.115631,-117.702354 -359.140839,-118.336555"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_NaHCO3 id_Adding_NaHCO3_as_buffer"
+                  points="-367.110962,-108.977608 -373.762482,-114.957352 -366.318085,-117.886673"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Adding_NaHCO3_as_buffer id_Olivine-NaHCO3_solution"
+                  points="-265.134308,-49.083221 -274.075470,-48.847664 -270.687469,-56.094826"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_Olivine-NaHCO3_solution id_Piping_into_olivine_solution"
+                  points="-63.418762,16.392275 -72.251663,17.799341 -69.844162,10.170193"
+                  stroke="none"/>
+        <polyline fill="#268169" fill-opacity="1.0"
+                  class="id_Piping_into_olivine_solution id_Carbonates"
+                  points="114.241508,123.015686 105.331802,122.230141 109.524124,115.416588"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Serpentine id_Heat-treating_serpentine"
+                  points="198.181580,-79.398628 191.138672,-84.912003 198.366547,-88.340988"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Heat-treating_serpentine id_Enhanced_serpentine"
+                  points="453.502502,-83.504890 445.857452,-78.862381 445.201447,-86.835449"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Heat-treating_serpentine id_Serpentine-rich_mine_tailings"
+                  points="351.010956,-129.434082 345.396729,-122.471283 342.072205,-129.747772"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Enhanced_serpentine id_Piping_into_serpentine-rich_mine_tailings"
+                  points="376.472168,-23.878296 380.755402,-31.730307 385.323700,-25.162931"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Serpentine-rich_mine_tailings id_Piping_into_serpentine-rich_mine_tailings"
+                  points="368.034485,-27.887562 363.439697,-35.561390 371.416687,-36.167713"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Piping_into_serpentine-rich_mine_tailings id_Carbonates"
+                  points="127.099419,123.153046 131.978073,115.656464 136.023880,122.558014"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_CO2 id_Dissolution_into_water"
+                  points="158.686493,437.880920 153.385040,430.677124 161.268646,429.317505"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_CO2 id_Capture_from_geothermal_steam"
+                  points="-222.296997,108.317101 -217.652924,100.672981 -213.395264,107.445885"
+                  stroke="none"/>
+        <polyline fill="#d99ed7" fill-opacity="1.0" class="id_CO2 id_DAC"
+                  points="474.582153,-227.466324 468.500000,-220.908310 465.686462,-228.397232"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Water id_Dissolution_into_water"
+                  points="142.297577,444.645691 134.426941,440.396820 140.974304,435.799835"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Water id_Capture_from_geothermal_steam"
+                  points="-224.723602,105.366348 -222.149734,96.800415 -216.326523,102.285889"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Dissolution_into_water id_CO2-bearing_aqueous_fluids"
+                  points="-122.258759,219.114197 -113.634865,221.486633 -118.982384,227.436768"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Dissolution_into_water id_Waste_byproducts_such_as_cement"
+                  points="75.376953,367.123352 83.531647,370.797699 77.330276,375.851715"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Dissolution_into_water id_Wollastonite"
+                  points="-33.164070,521.157349 -26.200760,515.543762 -24.495216,523.359802"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Dissolution_into_water id_olivine"
+                  points="31.154320,566.572266 35.625164,558.825500 40.034199,565.500916"
+                  stroke="none"/>
+        <polyline fill="#6fa6ff" fill-opacity="1.0"
+                  class="id_Dissolution_into_water id_CO2-bearing_aqueous_fluids_or_supercritical_CO2"
+                  points="543.321411,722.657654 534.432678,721.662659 538.784119,714.949646"
+                  stroke="none"/>
+        <polyline fill="#6fa6ff" fill-opacity="1.0"
+                  class="id_Dissolution_into_water id_Subsurface_pores"
+                  points="293.464722,768.828674 286.584198,763.113953 293.908234,759.895447"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Dissolution_into_water id_Peridotite"
+                  points="282.258575,611.907410 273.989777,608.497559 280.025116,603.246460"
+                  stroke="none"/>
+        <polyline fill="#6fa6ff" fill-opacity="1.0"
+                  class="id_Dissolution_into_water id_Saline_Aquifers"
+                  points="311.684906,532.159973 302.792206,533.119019 305.582062,525.621216"
+                  stroke="none"/>
+        <polyline fill="#95679e" fill-opacity="1.0"
+                  class="id_Dissolution_into_water id_Oil_and_Gas_Reservoirs"
+                  points="344.734192,451.045715 337.412445,456.183044 336.231293,448.270752"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Waste_byproducts_such_as_cement id_Piping_into_waste_byproducts_such_as_cement_kiln_dust"
+                  points="54.600124,250.854263 59.663490,258.227356 51.739677,259.328796"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Waste_byproducts_such_as_cement id_steel_slag"
+                  points="-0.035003,277.714233 8.185356,281.239258 2.077204,286.405518"
+                  stroke="none"/>
+        <polyline fill="#95679e" fill-opacity="1.0"
+                  class="id_Piping_into_waste_byproducts_such_as_cement_kiln_dust id_Carbonates"
+                  points="116.862976,133.431778 116.304733,142.358612 109.386566,138.341278"
+                  stroke="none"/>
+        <polyline fill="#95679e" fill-opacity="1.0"
+                  class="id_steel_slag id_Carbonates"
+                  points="115.697975,132.596909 113.451820,141.254547 107.424171,135.994568"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Wollastonite id_Piping_into_wollastonite_and_olivine"
+                  points="-45.601006,419.486237 -41.247330,427.299408 -49.239326,427.657074"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_olivine id_Piping_into_wollastonite_and_olivine"
+                  points="-42.342651,418.726196 -35.464653,424.444000 -42.790085,427.659271"
+                  stroke="none"/>
+        <polyline fill="#95679e" fill-opacity="1.0"
+                  class="id_Piping_into_wollastonite_and_olivine id_Carbonates"
+                  points="116.827980,133.411331 116.221519,142.335022 109.325157,138.280365"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Capture_from_geothermal_steam id_CO2-bearing_aqueous_fluids"
+                  points="-169.906570,175.920273 -178.509750,173.473740 -173.111252,167.569809"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Capture_from_geothermal_steam id_Basaltic_lavas"
+                  points="-380.900757,273.933777 -378.402893,265.345398 -372.531311,270.779053"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Basaltic_lavas id_Injection_into_subsurface_pore_space_in_basaltic_lavas"
+                  points="-389.947327,358.599945 -393.617920,350.443573 -385.624573,350.769623"
+                  stroke="none"/>
+        <polyline fill="#df89ff" fill-opacity="1.0"
+                  class="id_Injection_into_subsurface_pore_space_in_basaltic_lavas id_Basaltic_carbonate"
+                  points="-474.898438,449.047211 -471.818329,440.649994 -466.332611,446.472992"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_Injection_into_subsurface_pore_space_"
+                  points="443.614044,902.859375 444.943817,894.014465 451.487823,898.616272"
+                  stroke="none"/>
+        <polyline fill="#26859e" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_Injection_into_peridotite_reservoirs"
+                  points="393.893921,575.534912 402.452454,578.133301 396.950317,583.940796"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_Injection_into_Saline_Aquifers"
+                  points="422.305878,496.042206 429.797516,500.928497 422.891815,504.967255"
+                  stroke="none"/>
+        <polyline fill="#26859e" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_Injection_into_O&amp;G_reservoirs"
+                  points="427.855743,418.722839 434.662079,424.525757 427.297211,427.649658"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_Secondary_trapping_mechanisms_(highly_varied)_-__immobilize_the_CO2"
+                  points="688.420227,927.784668 680.689697,923.285950 687.380859,918.900940"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_including_dissolution"
+                  points="756.190063,890.644348 747.447388,888.756348 752.454834,882.517334"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_residual_gas_trapping"
+                  points="683.193359,856.906494 674.718628,854.046631 680.396484,848.410767"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2 id_and_mineralization"
+                  points="753.943542,815.728210 745.017761,816.303528 748.127869,808.932800"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_Subsurface_pores id_Injection_into_subsurface_pore_space_"
+                  points="430.151764,904.184570 421.601776,901.558167 427.122894,895.768738"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_Injection_into_subsurface_pore_space_ id_Sedimentary_carbonate"
+                  points="438.802216,1010.280273 434.709503,1002.327332 442.708954,1002.234314"
+                  stroke="none"/>
+        <polyline fill="#95679e" fill-opacity="1.0"
+                  class="id_Peridotite id_Injection_into_peridotite_reservoirs"
+                  points="380.354889,573.444946 374.906036,580.537903 371.411224,573.341614"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Injection_into_peridotite_reservoirs id_Carbonates"
+                  points="124.503929,133.367554 132.061798,138.150711 125.212128,142.283737"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_Saline_Aquifers id_Injection_into_Saline_Aquifers"
+                  points="410.563843,492.397797 405.027466,499.422668 401.622131,492.183655"
+                  stroke="none"/>
+        <polyline fill="#26859e" fill-opacity="1.0"
+                  class="id_Injection_into_Saline_Aquifers id_Carbonates"
+                  points="125.391586,132.739929 133.561554,136.380203 127.381348,141.460068"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Oil_and_Gas_Reservoirs id_Injection_into_O&amp;G_reservoirs"
+                  points="417.281342,415.025665 412.155884,422.355713 408.342041,415.323303"
+                  stroke="none"/>
+        <polyline fill="#4c463e" fill-opacity="1.0"
+                  class="id_Injection_into_O&amp;G_reservoirs id_Carbonates"
+                  points="126.108528,132.067215 134.684464,134.607574 129.221817,140.452179"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_Secondary_trapping_mechanisms_(highly_varied)_-__immobilize_the_CO2 id_Any_other_in-situ_approach"
+                  points="785.530945,966.393311 776.665344,967.577148 779.264587,960.011108"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_including_dissolution id_Any_other_in-situ_approach"
+                  points="789.767456,961.895386 783.021912,956.021973 790.418884,952.974854"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_residual_gas_trapping id_Any_other_in-situ_approach"
+                  points="787.383057,963.465210 778.931335,960.537964 784.653870,954.947510"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_and_mineralization id_Any_other_in-situ_approach"
+                  points="791.095337,961.487549 785.548706,954.470764 793.380737,952.840149"
+                  stroke="none"/>
+        <polyline fill="#d3b3b0" fill-opacity="1.0"
+                  class="id_DAC id_Underground_sequestration_in_sedimentary_formations"
+                  points="438.570831,-356.609833 445.111084,-350.508606 437.614014,-347.716858"
+                  stroke="none"/>
+        <polyline fill="#d3b3b0" fill-opacity="1.0"
+                  class="id_DAC id_Concentrated_gas"
+                  points="653.040100,-291.241272 646.846130,-284.788757 644.161682,-292.324890"
+                  stroke="none"/>
+        <polyline fill="#d3b3b0" fill-opacity="1.0"
+                  class="id_Concentrated_gas id_CO2-enhanced_oil_recovery"
+                  points="679.066345,-398.252533 681.776489,-389.728729 673.873413,-390.970123"
+                  stroke="none"/>
+        <polyline fill="#d3b3b0" fill-opacity="1.0"
+                  class="id_CO2-enhanced_oil_recovery id_Sequestration_in_oil_reservoirs"
+                  points="753.218811,-471.596863 749.860718,-463.306946 744.572021,-469.309387"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#73c000" r="7.0" cx="-299.3753"
+                class="id_Ambient_CO2" cy="-441.3799" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="7.636528" cx="-507.62292"
+                class="id_Enhanced_weathering_using_MgO_on_beaches"
+                cy="-728.754" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="7.0" cx="-696.33997"
+                class="id_Caustic_Magnesia" cy="-814.7639" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="7.0" cx="-588.2584"
+                class="id_Pure_CO2" cy="-908.20465" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="7.0" cx="-649.56335"
+                class="id_MgCO3" cy="-892.8702" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="7.636528" cx="-627.4807"
+                class="id_Enhanced_weathering_using_MgO_on_agricultural_soil"
+                cy="-773.2159" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="7.636528" cx="-542.4008"
+                class="id_Enhanced_weathering_using_MgO_on_forest_soil"
+                cy="-844.05835" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.38698" cx="-766.56335"
+                class="id_Compression" cy="-300.92706" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="8.670886" cx="-876.64606"
+                class="id_Pure_CO2_gas" cy="-182.82251" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="8.670886" cx="-943.7038"
+                class="id_Ultramafic_mine_tailings" cy="-218.28822"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="12.251356" cx="-917.38965"
+                class="id_Sparging_CO2-rich_gas" cy="-100.404945"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="11.296564" cx="-720.564"
+                class="id_More_receptive_mine_tailings" cy="32.961807"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.38698" cx="-393.61682"
+                class="id_Piping_into_tailings" cy="54.82831" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="7.0" cx="120.62921"
+                class="id_Carbonates" cy="126.945984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="7.0" cx="-345.3521"
+                class="id_Soil_enriched_with_olivine" cy="-644.12994"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="7.954792" cx="-308.52875"
+                class="id_Enhanced_weathering_with_olivine" cy="-702.4075"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="7.0" cx="-299.27225"
+                class="id_Soil_carbonate" cy="-844.2286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="8.909584" cx="-122.27062"
+                class="id_Ground_ultramafic_rocks" cy="-434.9166"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="7.79566" cx="18.696318"
+                class="id_Spreading_rocks_over_ag_soil" cy="-367.4728"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="7.79566" cx="-41.285786"
+                class="id_forest_soil" cy="-283.07336" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="7.79566" cx="-100.6412"
+                class="id_along_beaches" cy="-319.1355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="7.0" cx="-212.38795"
+                class="id_Soil" cy="-608.96063" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.341772" cx="-122.20533"
+                class="id_Using_microbial_processes_for_soil" cy="-578.7601"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="8.909584" cx="-2.8162029"
+                class="id_Enhanced_soil" cy="-460.30548" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="31.65628" cx="-146.17554"
+                class="id_CO2-bearing_aqueous_fluids" cy="197.61967"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="7.477396" cx="-374.20905"
+                class="id_Olivine" cy="-257.35577" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="7.477396" cx="-431.9161"
+                class="id_NaHCO3" cy="-273.6695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="15.593128" cx="-361.21823"
+                class="id_Adding_NaHCO3_as_buffer" cy="-94.00215"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="12.728752" cx="-253.15045"
+                class="id_Olivine-NaHCO3_solution" cy="-43.48081"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="8.909584" cx="-54.445374"
+                class="id_Piping_into_olivine_solution" cy="19.223982"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="7.954792" cx="96.73352"
+                class="id_Serpentine" cy="-293.23837" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="17.502712" cx="205.89796"
+                class="id_Heat-treating_serpentine" cy="-63.133476"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.38698" cx="463.3562"
+                class="id_Enhanced_serpentine" cy="-84.31559" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.38698" cx="360.00378"
+                class="id_Serpentine-rich_mine_tailings" cy="-133.5428"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="8.909584" cx="368.74765"
+                class="id_Piping_into_serpentine-rich_mine_tailings"
+                cy="-18.505041" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="14.399638" cx="70.14273"
+                class="id_CO2" cy="-75.520195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="12.012658" cx="-150.92117"
+                class="id_Water" cy="27.02009" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="40.0" cx="165.5697"
+                class="id_Dissolution_into_water" cy="477.79172"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="8.306719" cx="69.8133"
+                class="id_Waste_byproducts_such_as_cement" cy="360.29663"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="7.809431" cx="53.456062"
+                class="id_Piping_into_waste_byproducts_such_as_cement_kiln_dust"
+                cy="242.62396" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="7.809431" cx="-5.4011116"
+                class="id_steel_slag" cy="271.3698" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="7.4942274" cx="-40.97451"
+                class="id_Wollastonite" cy="522.86163" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="7.4942274" cx="24.483778"
+                class="id_olivine" cy="570.9781" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="8.6219225" cx="-46.008842"
+                class="id_Piping_into_wollastonite_and_olivine" cy="410.37344"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="14.578661" cx="-235.06279"
+                class="id_Capture_from_geothermal_steam" cy="116.3421"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="8.113924" cx="-386.7514"
+                class="id_Basaltic_lavas" cy="280.25595" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.341772" cx="-390.38922"
+                class="id_Injection_into_subsurface_pore_space_in_basaltic_lavas"
+                cy="369.4327" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="7.0" cx="-480.35748"
+                class="id_Basaltic_carbonate" cy="454.19006" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="21.611073" cx="561.87537"
+                class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2"
+                cy="734.6847" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="8.909584" cx="297.25034"
+                class="id_Subsurface_pores" cy="777.4432" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.864376" cx="437.65225"
+                class="id_Injection_into_subsurface_pore_space_" cy="911.3374"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="7.0" cx="438.88937"
+                class="id_Sedimentary_carbonate" cy="1017.7798" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="8.051189" cx="287.87152"
+                class="id_Peridotite" cy="618.3586" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="7.829323" cx="387.8474"
+                class="id_Injection_into_peridotite_reservoirs" cy="569.8063"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="8.051189" cx="319.69928"
+                class="id_Saline_Aquifers" cy="535.142" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="7.829323" cx="418.10086"
+                class="id_Injection_into_Saline_Aquifers" cy="488.85226"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="8.051189" cx="353.19165"
+                class="id_Oil_and_Gas_Reservoirs" cy="449.78317"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="7.829323" cx="424.60324"
+                class="id_Injection_into_O&amp;G_reservoirs" cy="411.0548"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="7.596745" cx="692.8582"
+                class="id_Secondary_trapping_mechanisms_(highly_varied)_-__immobilize_the_CO2"
+                cy="934.55676" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="7.596745" cx="762.5045"
+                class="id_including_dissolution" cy="895.7124" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="7.596745" cx="688.89734"
+                class="id_residual_gas_trapping" cy="862.65295" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="7.596745" cx="761.4034"
+                class="id_and_mineralization" cy="818.8759" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="7.0" cx="792.6241"
+                class="id_Any_other_in-situ_approach" cy="968.8301"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.819168" cx="485.1782"
+                class="id_DAC" cy="-231.4472" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="7.0" cx="435.95358"
+                class="id_Underground_sequestration_in_sedimentary_formations"
+                cy="-363.63834" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="9.864376" cx="662.8035"
+                class="id_Concentrated_gas" cy="-294.71912" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="8.909584" cx="680.5265"
+                class="id_CO2-enhanced_oil_recovery" cy="-407.54813"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="7.0" cx="758.8461"
+                class="id_Sequestration_in_oil_reservoirs" cy="-476.55505"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="-299.3753" y="-439.15775" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ambient_CO2">
+            Ambient CO2
+        </text>
+        <text font-size="12" x="-507.62292" y="-725.93713" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Enhanced_weathering_using_MgO_on_beaches">
+            Enhanced weathering using MgO on beaches
+        </text>
+        <text font-size="12" x="-696.33997" y="-811.9485" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Caustic_Magnesia">
+            Caustic Magnesia
+        </text>
+        <text font-size="12" x="-588.2584" y="-905.9825" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pure_CO2">
+            Pure CO2
+        </text>
+        <text font-size="12" x="-649.56335" y="-890.0533" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MgCO3">
+            MgCO3
+        </text>
+        <text font-size="12" x="-627.4807" y="-770.399" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Enhanced_weathering_using_MgO_on_agricultural_soil">
+            Enhanced weathering using MgO on agricultural soil
+        </text>
+        <text font-size="12" x="-542.4008" y="-841.24146" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Enhanced_weathering_using_MgO_on_forest_soil">
+            Enhanced weathering using MgO on forest soil
+        </text>
+        <text font-size="12" x="-766.56335" y="-298.1468" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Compression">
+            Compression
+        </text>
+        <text font-size="12" x="-876.64606" y="-180.00562" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pure_CO2_gas">
+            Pure CO2 gas
+        </text>
+        <text font-size="12" x="-943.7038" y="-215.4728" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ultramafic_mine_tailings">
+            Ultramafic mine tailings
+        </text>
+        <text font-size="12" x="-917.38965" y="-97.58805" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sparging_CO2-rich_gas">
+            Sparging CO2-rich gas
+        </text>
+        <text font-size="12" x="-720.564" y="35.740616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_More_receptive_mine_tailings">
+            More receptive mine tailings
+        </text>
+        <text font-size="12" x="-393.61682" y="57.607117" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Piping_into_tailings">
+            Piping into tailings
+        </text>
+        <text font-size="12" x="120.62921" y="129.16669" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Carbonates">
+            Carbonates
+        </text>
+        <text font-size="12" x="-345.3521" y="-641.90924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Soil_enriched_with_olivine">
+            Soil enriched with olivine
+        </text>
+        <text font-size="12" x="-308.52875" y="-699.62866" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Enhanced_weathering_with_olivine">
+            Enhanced weathering with olivine
+        </text>
+        <text font-size="12" x="-299.27225" y="-842.0079" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Soil_carbonate">
+            Soil carbonate
+        </text>
+        <text font-size="12" x="-122.27062" y="-432.6959" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ground_ultramafic_rocks">
+            Ground ultramafic rocks
+        </text>
+        <text font-size="12" x="18.696318" y="-364.65738" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Spreading_rocks_over_ag_soil">
+            Spreading rocks over ag soil
+        </text>
+        <text font-size="12" x="-41.285786" y="-280.85413" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_forest_soil">
+            forest soil
+        </text>
+        <text font-size="12" x="-100.6412" y="-316.3567" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_along_beaches">
+            along beaches
+        </text>
+        <text font-size="12" x="-212.38795" y="-606.7399" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Soil">
+            Soil
+        </text>
+        <text font-size="12" x="-122.20533" y="-575.94464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Using_microbial_processes_for_soil">
+            Using microbial processes for soil
+        </text>
+        <text font-size="12" x="-2.8162029" y="-458.12286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Enhanced_soil">
+            Enhanced soil
+        </text>
+        <text font-size="12" x="-146.17554" y="200.43657" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CO2-bearing_aqueous_fluids">
+            CO2-bearing aqueous fluids
+        </text>
+        <text font-size="12" x="-374.20905" y="-255.1336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Olivine">
+            Olivine
+        </text>
+        <text font-size="12" x="-431.9161" y="-271.44586" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_NaHCO3">
+            NaHCO3
+        </text>
+        <text font-size="12" x="-361.21823" y="-91.18526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Adding_NaHCO3_as_buffer">
+            Adding NaHCO3 as buffer
+        </text>
+        <text font-size="12" x="-253.15045" y="-41.257175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Olivine-NaHCO3_solution">
+            Olivine-NaHCO3 solution
+        </text>
+        <text font-size="12" x="-54.445374" y="22.00279" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Piping_into_olivine_solution">
+            Piping into olivine solution
+        </text>
+        <text font-size="12" x="96.73352" y="-290.4581" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Serpentine">
+            Serpentine
+        </text>
+        <text font-size="12" x="205.89796" y="-60.354668" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Heat-treating_serpentine">
+            Heat-treating serpentine
+        </text>
+        <text font-size="12" x="463.3562" y="-81.57194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Enhanced_serpentine">
+            Enhanced serpentine
+        </text>
+        <text font-size="12" x="360.00378" y="-130.72737" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Serpentine-rich_mine_tailings">
+            Serpentine-rich mine tailings
+        </text>
+        <text font-size="12" x="368.74765" y="-15.726233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Piping_into_serpentine-rich_mine_tailings">
+            Piping into serpentine-rich mine tailings
+        </text>
+        <text font-size="12" x="70.14273" y="-73.29803" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CO2">
+            CO2
+        </text>
+        <text font-size="12" x="-150.92117" y="29.202707" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Water">
+            Water
+        </text>
+        <text font-size="12" x="165.5697" y="479.97433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dissolution_into_water">
+            Dissolution into water
+        </text>
+        <text font-size="12" x="69.8133" y="363.07544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Waste_byproducts_such_as_cement">
+            Waste byproducts such as cement
+        </text>
+        <text font-size="12" x="53.456062" y="245.40277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Piping_into_waste_byproducts_such_as_cement_kiln_dust">
+            Piping into waste byproducts such as cement kiln dust
+        </text>
+        <text font-size="12" x="-5.4011116" y="274.14862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_steel_slag">
+            steel slag
+        </text>
+        <text font-size="12" x="-40.97451" y="525.04425" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wollastonite">
+            Wollastonite
+        </text>
+        <text font-size="12" x="24.483778" y="573.1607" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_olivine">
+            olivine
+        </text>
+        <text font-size="12" x="-46.008842" y="413.15225" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Piping_into_wollastonite_and_olivine">
+            Piping into wollastonite and olivine
+        </text>
+        <text font-size="12" x="-235.06279" y="119.15753" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Capture_from_geothermal_steam">
+            Capture from geothermal steam
+        </text>
+        <text font-size="12" x="-386.7514" y="282.43857" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Basaltic_lavas">
+            Basaltic lavas
+        </text>
+        <text font-size="12" x="-390.38922" y="372.24814" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Injection_into_subsurface_pore_space_in_basaltic_lavas">
+            Injection into subsurface pore space in basaltic lavas
+        </text>
+        <text font-size="12" x="-480.35748" y="456.37268" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Basaltic_carbonate">
+            Basaltic carbonate
+        </text>
+        <text font-size="12" x="561.87537" y="737.5016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_CO2-bearing_aqueous_fluids_or_supercritical_CO2">
+            CO2-bearing aqueous fluids or supercritical CO2
+        </text>
+        <text font-size="12" x="297.25034" y="780.22345" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Subsurface_pores">
+            Subsurface pores
+        </text>
+        <text font-size="12" x="437.65225" y="914.15283" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Injection_into_subsurface_pore_space_">
+            Injection into subsurface pore space
+        </text>
+        <text font-size="12" x="438.88937" y="1020.5952" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sedimentary_carbonate">
+            Sedimentary carbonate
+        </text>
+        <text font-size="12" x="287.87152" y="620.5412" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Peridotite">
+            Peridotite
+        </text>
+        <text font-size="12" x="387.8474" y="572.5851" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Injection_into_peridotite_reservoirs">
+            Injection into peridotite reservoirs
+        </text>
+        <text font-size="12" x="319.69928" y="537.9223" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Saline_Aquifers">
+            Saline Aquifers
+        </text>
+        <text font-size="12" x="418.10086" y="491.6677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Injection_into_Saline_Aquifers">
+            Injection into Saline Aquifers
+        </text>
+        <text font-size="12" x="353.19165" y="452.00534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Oil_and_Gas_Reservoirs">
+            Oil and Gas Reservoirs
+        </text>
+        <text font-size="12" x="424.60324" y="413.8717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Injection_into_O&amp;G_reservoirs">
+            Injection into O&amp;G reservoirs
+        </text>
+        <text font-size="12" x="692.8582" y="937.37366" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Secondary_trapping_mechanisms_(highly_varied)_-__immobilize_the_CO2">
+            Secondary trapping mechanisms (highly varied) - immobilize the CO2
+        </text>
+        <text font-size="12" x="762.5045" y="898.4912" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_including_dissolution">
+            including dissolution
+        </text>
+        <text font-size="12" x="688.89734" y="865.43176" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_residual_gas_trapping">
+            residual gas trapping
+        </text>
+        <text font-size="12" x="761.4034" y="821.05853" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_and_mineralization">
+            and mineralization
+        </text>
+        <text font-size="12" x="792.6241" y="971.6089" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Any_other_in-situ_approach">
+            Any other in-situ approach
+        </text>
+        <text font-size="12" x="485.1782" y="-229.2265" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_DAC">
+            DAC
+        </text>
+        <text font-size="12" x="435.95358" y="-360.8229" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Underground_sequestration_in_sedimentary_formations">
+            Underground sequestration in sedimentary formations
+        </text>
+        <text font-size="12" x="662.8035" y="-291.9037" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Concentrated_gas">
+            Concentrated gas
+        </text>
+        <text font-size="12" x="680.5265" y="-404.73123" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CO2-enhanced_oil_recovery">
+            CO2-enhanced oil recovery
+        </text>
+        <text font-size="12" x="758.8461" y="-473.77478" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sequestration_in_oil_reservoirs">
+            Sequestration in oil reservoirs
+        </text>
+    </g>
+</svg>

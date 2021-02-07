@@ -1,0 +1,198 @@
+*:not(button#zoom-in):not(button#zoom-out) {
+  font-family: 'Titillium Web', sans-serif;
+}
+body {
+  position: relative;
+  transition: background-color 100ms ease;
+}
+body.trace-mode {
+  background-color: #333;
+}
+body.trace-mode circle {
+  stroke: #FFF;
+}
+body.trace-mode text {
+  fill: #FFF;
+}
+button:not(.tracing):not(.toggle-mode):not(#card-button):not([type="submit"]) {
+  width: 40px;
+  height: 40px;
+  font-size: 2rem;
+  position: fixed;
+  top: 10px;
+  z-index: 1;
+}
+button#zoom-in {
+  left: 10px;
+}
+button#zoom-out {
+  left: 60px;
+}
+input#search {
+  position: fixed;
+  top: 10px;
+  left: 110px;
+  height: 40px;
+  width: 150px;
+  padding-left: 5px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+button#donation-button {
+  right: 10px;
+  width: 100px !important;
+  background-color: royalblue;
+  color: #FFF;
+  border: 1px solid #000;
+  font-size: 1.4rem !important;
+  font-style: italic;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 500ms ease;
+}
+button#donation-button:hover {
+  background-color: skyblue;
+}
+form#cardholder-information {
+  display: none;
+  position: fixed;
+  width: 300px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #FFF;
+  color: #333;
+  border: 1px solid royalblue;
+  z-index: 1;
+  padding: 10px;
+}
+form#cardholder-information.active {
+  display: grid;
+  row-gap: 5px;
+}
+form#cardholder-information div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+}
+form#cardholder-information label {
+  font-size: 1rem;
+  color: #333;
+}
+form#cardholder-information input {
+  height: 30px;
+  box-sizing: border-box;
+  border: 1px solid #CCC;
+  border-radius: 3px;
+}
+form#cardholder-information input:hover {
+  border-color: royalblue;
+}
+form#cardholder-information input:focus {
+  border-width: 2px;
+  border-color: royalblue;
+}
+form#cardholder-information button[type="submit"] {
+  grid-column: 1/-1;
+  width: 50%;
+  justify-self: center;
+  background-color: royalblue;
+  border: 1px solid #333;
+  color: #FFF;
+  transition: background-color 500ms ease;
+  height: 30px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+form#cardholder-information button[type="submit"]:hover {
+  background-color: skyblue;
+}
+form#card {
+  display: grid;
+  grid-template-rows: repeat(4, 40px);
+  margin: 100px auto 0;
+  width: 300px;
+  padding: 30px;
+  border: 2px solid skyblue;
+}
+aside.tools {
+  position: fixed;
+  top: 60px;
+  left: 10px;
+  z-index: 1;
+  width: 100px;
+
+  display: grid;
+  row-gap: 5px;
+}
+aside.tools > button {
+  height: 50px;
+  padding: 0;
+}
+aside.tools > button.active {
+  background-color: blueviolet;
+  color: #FFF;
+}
+aside.tools > label {
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  align-items: center;
+  column-gap: 5px;
+  color: #FFF;
+}
+aside.tools > label > input[type="checkbox"] {
+  height: 30px;
+  width: 30px;
+}
+article#error-message {
+  position: fixed;
+  left: 110px;
+  height: 48px;
+  background-color: #FF0000;
+  padding: 0 10px;
+
+  opacity: 0;
+  transition: opacity 600ms ease;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+article#error-message.active {
+  opacity: 100%;
+}
+span#degree-display {
+  position: fixed;
+  font-size: 1rem;
+  background-color: #333;
+  border: 1px solid #FFF;
+  color: #FFF;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  box-sizing: border-box;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  font-weight: 600;
+}
+body.trace-mode span#degree-display {
+  background-color: #FFF;
+  color: #333;
+  border-color: #333;
+}
+span#degree-display.active {
+  display: grid;
+}
+svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+text, circle {
+  cursor: pointer;
+}
+circle {
+  transition: fill 500ms ease;
+}
