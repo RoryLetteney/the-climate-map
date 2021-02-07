@@ -130,7 +130,7 @@ aside.tools > button {
   padding: 0;
 }
 aside.tools > button.active {
-  background-color: blueviolet;
+  background-color: #67bed9;
   color: #FFF;
 }
 aside.tools > label {
