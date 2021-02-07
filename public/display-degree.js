@@ -25,7 +25,6 @@ function toggleDisplayDegree(e) {
 }
 
 function displayDegree(e) {
-  console.log('displaying');
   const displayDegreeSpan = document.getElementById('degree-display');
   switch (e.type) {
     case 'mouseleave':
