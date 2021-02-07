@@ -57,6 +57,14 @@ function toggleMode() {
     });
 
     cleanup(true);
+    
+    nodes.forEach(n => {
+      n.addEventListener('click', focusModeClickHandler);
+    });
+    
+    labels.forEach(l => {
+      l.addEventListener('click', focusModeClickHandler);
+    });
   }
 
   document.getElementById('toggle-mode').innerText = currentMode;
