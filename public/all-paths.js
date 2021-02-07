@@ -1,12 +1,13 @@
 function findPaths(...selectedNodes) {
   let nodePaths = [];
-  const pattern = new RegExp(`${[...new Set(...selectedNodes)].map(n => '(?=.*' + n + ')').join('')}.*`, 'i');
-  
+  const pattern = new RegExp(`${[...new Set(...selectedNodes)].map(n => '(?=.*' + n + ')').join('')}`, 'i');
   paths.forEach(p => {
-    if (pattern.test(p)) nodePaths.push(p.split('->'));
+    if (pattern.test(p)) {
+      nodePaths.push(p.split('->'));
+    }
   });
   
-  nodePaths.sort((a,b) => a.length - b.length);
+  nodePaths = nodePaths.filter(p => selectedNodes.every(v => p.includes(v.value))).sort((a,b) => a.length - b.length);
   return nodePaths;
 }
 
