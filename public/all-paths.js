@@ -1,12 +1,13 @@
 function findPaths(...selectedNodes) {
   let nodePaths = [];
-  const pattern = new RegExp(`${[...new Set(...selectedNodes)].map(n => '(?=.*' + n + ')').join('')}.*`, 'i');
-  
+  const pattern = new RegExp(`${[...new Set(...selectedNodes)].map(n => '(?=.*' + n + ')').join('')}`, 'i');
   paths.forEach(p => {
-    if (pattern.test(p)) nodePaths.push(p.split('->'));
+    if (pattern.test(p)) {
+      nodePaths.push(p.split('->'));
+    }
   });
   
-  nodePaths.sort((a,b) => a.length - b.length);
+  nodePaths = nodePaths.filter(p => selectedNodes.every(v => p.includes(v.value))).sort((a,b) => a.length - b.length);
   return nodePaths;
 }
 
@@ -33,37 +34,44 @@ function buildEdgesFromPaths(paths) {
   return edges;
 }
 
-function showErrorMessage(pathType) {
+function showErrorMessage(pathType, startingNodesSelected) {
   let button = null, offsetTop = 0;
   button = document.getElementById(pathType);
 
   if (button) offsetTop = button.offsetTop;
   
   const errorMessage = document.getElementById('error-message');
-  errorMessage.innerText = 'No paths found.';
+
+  if (pathType === traceFunctions.USER_DEFINED_PATH && startingNodesSelected) {
+    errorMessage.innerText = 'Node not in path.';
+  } else {
+    errorMessage.innerText = 'No paths found.';
+
+    nodes.forEach(n => {
+      n.style.opacity = '10%';
+    });
+  
+    labels.forEach(l => {
+      l.style.opacity = '10%';
+    });
+  
+    edges.forEach(e => {
+      e.style.opacity = '10%';
+    });
+  
+    arrows.forEach(a => {
+      a.style.opacity = '10%';
+    });
+  }
+
   errorMessage.style.top = `${offsetTop + 60}px`;
   errorMessage.classList.add('active');
   setTimeout(() => {
     errorMessage.classList.remove('active');
   }, 1000);
-
-  nodes.forEach(n => {
-    n.style.opacity = '10%';
-  });
-
-  labels.forEach(l => {
-    l.style.opacity = '10%';
-  });
-
-  edges.forEach(e => {
-    e.style.opacity = '10%';
-  });
-
-  arrows.forEach(a => {
-    a.style.opacity = '10%';
-  });
 }
 
+let startingNodesSelected = false;
 function getPath(pathType, selectedNodes) {
   let pathNodes = findPaths(...selectedNodes), pathEdges = null;
   if (pathType === traceFunctions.SHORTEST_PATH) pathNodes = pathNodes.filter(pn => pn.length === pathNodes[0].length);
@@ -83,6 +91,9 @@ function getPath(pathType, selectedNodes) {
     });
 
     if (filteredPathEdges.length) {
+      if (pathType === traceFunctions.USER_DEFINED_PATH) startingNodesSelected = true;
+      else startingNodesSelected = false;
+
       nodes.forEach(n => {
         if (!slicedPathNodes.has(n.classList.value)) n.style.opacity = '10%';
         else n.style.opacity = '100%';
@@ -102,6 +113,11 @@ function getPath(pathType, selectedNodes) {
         if (!filteredPathEdges.includes(a.classList.value)) a.style.opacity = '10%';
         else a.style.opacity = '100%';
       });
-    } else showErrorMessage(pathType);
-  } else showErrorMessage(pathType);
+    } else {
+      showErrorMessage(pathType, startingNodesSelected);
+      if (pathType === traceFunctions.USER_DEFINED_PATH && startingNodesSelected) {
+        selectedNodes.pop();
+      }
+    }
+  } else showErrorMessage(pathType, startingNodesSelected);
 }
